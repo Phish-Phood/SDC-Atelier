@@ -1,0 +1,22 @@
+{
+  "name": "sdc-atelier",
+  "version": "1.0.0",
+  "description": "Database for Project Catwalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phish-Phood/SDC-Atelier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phish-Phood/SDC-Atelier/issues"
+  },
+  "homepage": "https://github.com/Phish-Phood/SDC-Atelier#readme",
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
+}
